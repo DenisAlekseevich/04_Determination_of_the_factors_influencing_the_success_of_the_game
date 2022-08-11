@@ -1,0 +1,2 @@
+# Determination_of_the_factors_influencing_the_success_of_the_game
+Определение факторов, влияющих на успешность игры
